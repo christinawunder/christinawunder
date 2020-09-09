@@ -3,7 +3,7 @@ name: 'Christina Wunder'
 description: 'Young people don’t care about politics? That is simply not true.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/christinawunder'
+# baseurl: '/christinawunder'
 url: "http://christinawunder.com/"
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
