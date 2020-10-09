@@ -5,7 +5,6 @@ section: Archive
 hidden: true
 categories: [ Life, Politics ]
 image: assets/images/20180308_i-m-priscilla-107402-1-1024x680.jpg
-tags: [sticky]
 ---
 
 
